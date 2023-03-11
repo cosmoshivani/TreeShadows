@@ -1,2 +1,2 @@
 # TreeShadows
-[Tree Shadows](treeshadows.co)
+treeshadows.co
